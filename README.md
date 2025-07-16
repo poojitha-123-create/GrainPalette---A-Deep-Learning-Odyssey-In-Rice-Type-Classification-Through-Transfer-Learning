@@ -1,1 +1,2 @@
-# GrainPalette---A-Deep-Learning-Odyssey-In-Rice-Type-Classification-Through-Transfer-Learning
+A Deep learning model based on tranfer learning which can identifies the rice images and what type it is based on our training.
+
